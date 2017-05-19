@@ -45,4 +45,7 @@ animationController = CircularAnimationController()
 ```
 
 Here's how these animations look:
+
 <img src="https://raw.githubusercontent.com/petrucci34/TransitionAnimations/master/transitions.gif">
+
+A while back I gave a presentation about this topic at Capital One internal conference and the slides can be found [here](https://github.com/petrucci34/TransitionAnimations/blob/master/Slides.pdf).
